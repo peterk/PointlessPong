@@ -4,6 +4,8 @@ Pointless Pong
 A quick excursion using Kinect in Processing with Daniel Shiffmans
 excellent Kinect library (http://www.shiffman.net/p5/kinect/).
 
+![A screenshot of the pointless pong game where a user is using their hand to control the paddle](https://github.com/peterk/PointlessPong/raw/master/pointlesspong.png)
+
 ## License
 
 Same as for the Openkinect project
